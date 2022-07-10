@@ -16,6 +16,8 @@
 ![Jira](images/Jira.png)
 
 ![mary12377 github stats](https://github-readme-stats.vercel.app/api?username=mary12377&show_icons=true&theme=radical)
-<p align="center">
-<img title="Для души" src="images/ночь.gif">
-</p>
+
+
+![night](images/night.gif)
+
+
