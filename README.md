@@ -10,6 +10,7 @@
 <img width="6%" title="Selenide" src="images/Selenide.png">
 <img width="6%" title="Selenoid" src="images/Selenoid.png">
 <img width="6%" title="Allure Report" src="images/Allure_Report.png">
+<img width="6%" title="Allure TestOps" src="images/AllureTestOps.png">
 <img width="6%" title="Jenkins" src="images/Jenkins.png">
 <img width="6%" title="GitHub" src="images/Github.png">
 <img width="6%" title="Telegram" src="images/Telegram.png">
