@@ -16,7 +16,6 @@
 <img width="6%" title="Telegram" src="images/Telegram.png">
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ![mary12377 github stats](https://github-readme-stats.vercel.app/api?username=mary12377&show_icons=true&theme=midnight-purple)
 
 
